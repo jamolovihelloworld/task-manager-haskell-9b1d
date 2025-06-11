@@ -1,0 +1,1 @@
+main = putStrLn "Welcome to the task-manager project in Haskell"
